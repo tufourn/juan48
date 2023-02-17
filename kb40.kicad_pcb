@@ -11017,6 +11017,28 @@
       (net 60 "COL5") (pinfunction "2") (pintype "passive") (tstamp 79727c2c-e5e3-43e3-8151-907519239ccf))
   )
 
+  (gr_poly
+    (pts
+      (xy 154.5 53)
+      (xy 172.5 55)
+      (xy 194.5 55)
+      (xy 194.5 119.5)
+      (xy 205 130.5)
+      (xy 206 131.5)
+      (xy 194 145.5)
+      (xy 176 132.5)
+      (xy 146.5 124.5)
+      (xy 136 114.5)
+      (xy 121 114.5)
+      (xy 118 120.5)
+      (xy 62.5 120.5)
+      (xy 63 69.5)
+      (xy 64.5 68)
+      (xy 100.5 51)
+      (xy 118.5 45)
+      (xy 136.5 45)
+    ) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp e9e16ddf-dfc8-4b6f-ac0d-94ad9257dd2d))
+
   (group "" (id 1eb147e1-589d-4513-90a6-3c68c18e557f)
     (members
       0719c465-f659-4201-bda8-d17047693c89
