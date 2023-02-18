@@ -1,4 +1,4 @@
-21286090864432148
+21289444207287135
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89144,3 +89144,17 @@ test point plated hole
 0
 1
 1
+tufourn-components
+Kailh_socket_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+tufourn-components
+SK6812Mini-E
+RGB LED
+rgb led
+0
+8
+4
