@@ -1,4 +1,4 @@
-21289444207287135
+21291121045096074
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89151,6 +89151,13 @@ kailh,choc
 0
 4
 2
+tufourn-components
+SK6812-MINI-E
+
+
+0
+8
+4
 tufourn-components
 SK6812Mini-E
 RGB LED
