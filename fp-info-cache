@@ -1,4 +1,4 @@
-21294475227315937
+21297830141494805
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89152,6 +89152,13 @@ ArduinoProMicro-BackSide
 48
 24
 tufourn-components
+D_SOD-123
+SOD-123 Diode
+SOD-123 diode
+0
+10
+2
+tufourn-components
 Elite-C
 
 
@@ -89165,6 +89172,13 @@ kailh,choc
 0
 4
 2
+tufourn-components
+PJ-320A
+Solder-jumper reversible TRRS Socket
+
+0
+18
+4
 tufourn-components
 SK6812-MINI-E
 
